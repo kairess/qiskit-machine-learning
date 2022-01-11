@@ -41,3 +41,8 @@ Used ad hoc dataset
 - pylatexenc
 - matplotlib
 - numpy
+
+## Reference
+
+- https://www.youtube.com/watch?v=claoY57eVIc
+- https://github.com/qiskit-community/qiskit-application-modules-demo-sessions/blob/main/qiskit-machine-learning/qiskit-machine-learning-demo.ipynb
